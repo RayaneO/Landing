@@ -52,6 +52,16 @@ font-weight: lighter;
 border-style: solid;
 border-color: white;
 border-radius: 10px;
+}
+.boxes:hover {
+padding: 30px 0;
+margin: 10px;
+text-align: center;
+font-weight: lighter;
+border-style: solid;
+border-color: #FAAC58;
+border-radius: 10px;
+
 
 }
 #footer {
